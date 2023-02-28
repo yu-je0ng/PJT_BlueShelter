@@ -48,45 +48,47 @@
 
 ### 2.1. 데이터 수집 및 가공
 
-![데이터수집](assets/data1.png)
+<img src="assets/data1.png" width="100%" height="100%" title="데이터수집"/>
 
-![데이터가공](assets/data2.png)
+<img src="assets/data2.png" width="100%" height="100%" title="데이터가공"/>
+
+
 
 ### 2.2. 데이터베이스 설계
 
-![데이터베이스설계](assets/data3.png)
-
+<img src="assets/data3.png" width="100%" height="100%" title="데이터베이스설계"/>
 
 
 ## 3. 서비스 프로세스
 
 ### 3.1. 일반 이용자 서비스 프로세스
 
-! [일반사용자](assets/user_process1.png)
+<img src="assets/user_process1.png" width="100%" height="100%" title="일반사용자"/>
 
-! [일반사용자](assets/user_process2.png)
+<img src="assets/user_process2.png" width="100%" height="100%" title="일반사용자"/>
 
-! [일반사용자](assets/user_process3.png)
+<img src="assets/user_process3.png" width="100%" height="100%" title="일반사용자"/>
 
-! [일반사용자](assets/user_process4.png)
+<img src="assets/user_process4.png" width="100%" height="100%" title="일반사용자"/>
 
-! [일반사용자](assets/user_process5.png)
+<img src="assets/user_process5.png" width="100%" height="100%" title="일반사용자"/>
 
-! [일반사용자](assets/user_process6.png)
+<img src="assets/user_process6.png" width="100%" height="100%" title="일반사용자"/>
 
 
 
 ### 3.2. 기관 이용자 서비스 프로세스
 
-! [기관사용자](assets/agency_prcess1.png)
+<img src="assets/agency_prcess1.png" width="100%" height="100%" title="기관사용자"/>
 
-! [기관사용자](assets/agency_prcess2.png)
+<img src="assets/agency_prcess2.png" width="100%" height="100%" title="기관사용자"/>
 
-! [기관사용자](assets/agency_prcess3.png)
+<img src="assets/agency_prcess3.png" width="100%" height="100%" title="기관사용자"/>
 
-! [기관사용자](assets/agency_prcess4.png)
+<img src="assets/agency_prcess4.png" width="100%" height="100%" title="기관사용자"/>
 
-! [기관사용자](assets/agency_prcess5.png)
+<img src="assets/agency_prcess5.png" width="100%" height="100%" title="기관사용자"/>
+
 
 
 ## 4. 프로젝트 후기
