@@ -1,0 +1,2 @@
+# settings
+blue_shelter/visualization/settings
