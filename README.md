@@ -48,7 +48,7 @@
 
 ### 2.1. 데이터 수집 및 가공
 
-![화면 캡처 2023-02-28 092657](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 092657.png)
+![화면 캡처 2023-02-28 092657](C:\workspaces\PJT_BlueShelter\assets\2023-02-28_092657.png)
 
 ![화면 캡처 2023-02-28 092737](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 092737.png)
 
