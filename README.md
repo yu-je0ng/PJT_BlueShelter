@@ -62,30 +62,31 @@
 
 ### 3.1. 일반 이용자 서비스 프로세스
 
-![화면 캡처 2023-02-28 093023](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093023.png)
+! [일반사용자](assets/user_process1.png)
 
-![화면 캡처 2023-02-28 093037](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093037.png)
+! [일반사용자](assets/user_process2.png)
 
-![화면 캡처 2023-02-28 093049](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093049.png)
+! [일반사용자](assets/user_process3.png)
 
-![화면 캡처 2023-02-28 093100](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093100.png)
+! [일반사용자](assets/user_process4.png)
 
-![화면 캡처 2023-02-28 093112](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093112.png)
+! [일반사용자](assets/user_process5.png)
 
-![화면 캡처 2023-02-28 093125](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093125.png)
+! [일반사용자](assets/user_process6.png)
+
+
 
 ### 3.2. 기관 이용자 서비스 프로세스
 
-![화면 캡처 2023-02-28 093216](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093216.png)
+! [기관사용자](assets/agency_prcess1.png)
 
-![화면 캡처 2023-02-28 093227](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093227.png)
+! [기관사용자](assets/agency_prcess2.png)
 
-![화면 캡처 2023-02-28 093240](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093240.png)
+! [기관사용자](assets/agency_prcess3.png)
 
-![화면 캡처 2023-02-28 093251](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093251.png)
+! [기관사용자](assets/agency_prcess4.png)
 
-![화면 캡처 2023-02-28 093304](C:\workspaces\PJT_BlueShelter\assets\화면 캡처 2023-02-28 093304.png)
-
+! [기관사용자](assets/agency_prcess5.png)
 
 
 ## 4. 프로젝트 후기
